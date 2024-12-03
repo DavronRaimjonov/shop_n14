@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.ant-rate-star,
+.ant-rate-star-full {
+  margin-inline-end: 2px !important;
+}
+
+
